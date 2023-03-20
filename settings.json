@@ -1,0 +1,22 @@
+{
+  "workbench.colorTheme": "Dracula",
+  "workbench.iconTheme": "vscode-icons",
+  "bracketPairColorizer.depreciation-notice": false,
+  "prettier.singleQuote": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "razor": "html",
+    "html": "html",
+    "aspnetcorerazor": "html"
+  },
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "window.zoomLevel": 1,
+  "editor.renderWhitespace": "all",
+  "[python]": {
+    "editor.formatOnType": true
+  }
+}
